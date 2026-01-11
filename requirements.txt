@@ -1,1 +1,15 @@
-
+torch
+torchvision
+tensorflow
+keras
+opencv-python
+deepface
+yolov5
+mtcnn
+retina-face
+numpy
+pandas
+pillow
+matplotlib
+tqdm
+requests
