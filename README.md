@@ -80,24 +80,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/CrimeDetection.ipynb
 ```
 
----
-
-## 📁 Project Structure
-
-```
-criminal-detection-ai-pipeline/
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── notebooks/
-│   └── CrimeDetection.ipynb
-├── data/
-│   ├── criminal_db/
-│   └── test_images/
-└── results/
-    └── output_samples/
-```
----
 ## QUICK SETUP CHECKLIST
 
 ```bash
