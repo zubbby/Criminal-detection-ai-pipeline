@@ -67,7 +67,7 @@ Annotated Output
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/[your-username]/criminal-detection-ai-pipeline.git
+git clone https://github.com/zubbby/criminal-detection-ai-pipeline.git
 cd criminal-detection-ai-pipeline
 pip install -r requirements.txt
 ```
@@ -86,7 +86,7 @@ jupyter notebook notebooks/CrimeDetection.ipynb
 git init
 git add .
 git commit -m "Initial commit: AI Criminal Detection System"
-git remote add origin https://github.com/[your-username]/criminal-detection-ai-pipeline.git
+git remote add origin https://github.com/zubbby/criminal-detection-ai-pipeline.git
 git push -u origin main
 ```
 
