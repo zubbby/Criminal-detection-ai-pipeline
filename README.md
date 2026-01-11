@@ -1,9 +1,3 @@
-# 📦 SHORT VERSION - ESSENTIAL FILES ONLY
-
----
-
-## 📄 FILE 1: README.md (Condensed Version)
-
 # 🚨 AI Criminal Detection System
 
 **3rd Place Winner** | AI/ML Hackathon 2024
@@ -103,73 +97,7 @@ criminal-detection-ai-pipeline/
 └── results/
     └── output_samples/
 ```
-
 ---
-
-## 📄 FILE 2: requirements.txt
-
-```
-torch
-torchvision
-tensorflow
-keras
-opencv-python
-deepface
-yolov5
-mtcnn
-retina-face
-numpy
-pandas
-pillow
-matplotlib
-tqdm
-requests
-```
-
----
-
-## 📄 FILE 3: .gitignore
-
-```
-__pycache__/
-*.pyc
-venv/
-.env
-.ipynb_checkpoints/
-models/weights/
-data/criminal_db/*.jpg
-data/criminal_db/*.png
-results/*.jpg
-results/*.png
-.vscode/
-.idea/
-```
-
----
-
-## 📄 FILE 4: LICENSE
-
-MIT License
-
-Copyright (c) 2024 Nzubechukwu Nwoke
-
-Permission is hereby granted to use, copy, modify, merge, publish, distribute and sublicense the software.
-
-The software is provided as is without warranty of any kind.
-
----
-
-## 📄 FILE 5: data/criminal_db/README.md
-
-# Criminal Database
-
-Store face images here.
-
-Use only synthetic or consented images.  
-Do not commit real biometric data.
-
----
-
 ## QUICK SETUP CHECKLIST
 
 ```bash
